@@ -3,7 +3,7 @@ How to Set Up Your Bitdefender Central Account in Minutes
 
 .. image:: get.jpg
    :alt: Bitdefender Central
-   :target: https://fm.ci?aHR0cHM6Ly9iaXRkZWZlbmRlcmNlbnRyYWwtaGVscGxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://bitdefendercentral.godaddysites.com/
 
 Get Protected Fast with This Step-by-Step Bitdefender Central Setup Guide
 --------------------------------------------------------------------------
